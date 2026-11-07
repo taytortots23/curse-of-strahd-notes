@@ -1,2 +1,2 @@
 - On paper
-- Start at bar, get letter, go into mists, see real letter, fight wolves
+- Start at bar, get letter, go into mists, see real letter, fight wole
